@@ -1,0 +1,12 @@
+[
+  {
+    "name": "v1.5.0",
+    "zipball_url": "https://api.github.com/repos/Blaumaus/le_chiffre/zipball/refs/tags/v1.5.0",
+    "tarball_url": "https://api.github.com/repos/Blaumaus/le_chiffre/tarball/refs/tags/v1.5.0",
+    "commit": {
+      "sha": "5325a86b1ced8e6c5d7be151cac85b86db7f56e3",
+      "url": "https://api.github.com/repos/Blaumaus/le_chiffre/commits/5325a86b1ced8e6c5d7be151cac85b86db7f56e3"
+    },
+    "node_id": "MDM6UmVmMzEyOTA5MjY0OnJlZnMvdGFncy92MS41LjA="
+  }
+]
